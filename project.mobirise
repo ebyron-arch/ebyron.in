@@ -55,7 +55,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/396112045-1219820999408221-5056704300639388619-n.jpg",
     "mbrsiteDomain": "bfrkaog5zc",
     "imageResize": false,
-    "usedWebp": false,
+    "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
